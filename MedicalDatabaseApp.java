@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.*;
-
+/**github test */
 public class MedicalDatabaseApp extends JFrame {
     private Connection conn;
     private JTabbedPane tabs;
